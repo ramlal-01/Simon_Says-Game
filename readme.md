@@ -3,9 +3,13 @@
 A fun, interactive memory challenge built with HTML, CSS, and JavaScript!
 Test your brain — can you follow Simon’s color sequence without missing a beat?
 
+---
+
 🧠 About the Game
 
 The Simon Says Game is a classic memory game where the computer flashes a sequence of colors, and the player has to repeat the sequence in the same order. Each correct round adds a new color, increasing the difficulty level step by step.
+
+---
 
 ⚙️ Features
 
@@ -19,13 +23,7 @@ The Simon Says Game is a classic memory game where the computer flashes a sequen
 
 📱 Fully Responsive — works on desktop and mobile.
 
-🧩 Tech Stack
-
-HTML5 — game layout and structure
-
-CSS3 — for styling and animations
-
-JavaScript (ES6) — for game logic and interactions
+---
 
 🕹️ How to Play
 
@@ -39,6 +37,7 @@ With each successful round, the sequence gets longer.
 
 One wrong move… and it’s Game Over! 😵
 
+---
 
 💡 Future Improvements
 
@@ -48,13 +47,9 @@ Introduce difficulty levels (easy / medium / hard).
 
 Add score tracking and high-score leaderboard.
 
-📸 Preview
+---
 
-(You can add a screenshot or a short GIF here)
+📸 Preview
 
 ![Simon Says Preview](preview.png)
 
-🧑‍💻 Author
-
-Ram Lal — Front-End Developer
-🔗 GitHub Profile
